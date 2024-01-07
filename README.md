@@ -5,12 +5,19 @@ This project focuses on developing a machine learning model--logistic regression
 
 ## Tools:
 • Data processing:
+
     • Pandas and Numpy
+
 • Data visualization:
+
     • Matplotlib
+
 • Data modeling:
+
     • Scikit-learn
+
 • Version control:
+
     • Git and Github
 
 ## Result:
@@ -21,4 +28,5 @@ This project focuses on developing a machine learning model--logistic regression
 
 ## Data set source:
 • This data set was obtained from UC Irvine's Machine Learning Repository (https://archive.ics.uci.edu/dataset/2/adult)
+
 • Becker,Barry and Kohavi,Ronny. (1996). Adult. UCI Machine Learning Repository. https://doi.org/10.24432/C5XW20.
