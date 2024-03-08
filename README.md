@@ -21,10 +21,12 @@ This project focuses on developing a machine learning model--logistic regression
     * Git and Github
 
 ## Result:
-* Since this project is still ongoing, the results will be published soon so stay tune! 
+* I was able to create a Logistic Regression model that yields an accuracy result of 80%.
+* I optimized the model using cross-validation, L1 and L2 regularlization, and scaling data.
 
 ## Limitation:
-* TBD
+* This data is limited because of the old year it was created and so the prediction might not be relevant to today's income prediction standards
+* Despite the optimization techniques, it was hard to see any significant increase in the accuracy metrics so there's definitely more room to investigate on other techniques to increase the accuracy level.
 
 ## Data set source:
 * This data set was obtained from UC Irvine's Machine Learning Repository (https://archive.ics.uci.edu/dataset/2/adult)
